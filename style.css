@@ -1,0 +1,32 @@
+body{
+  margin-left: 15px;
+}
+.container {
+  display: inline-block;
+  padding: 3px 10px 10px 10px; 
+  border: 1px solid black;
+}
+h1 {
+  font-family: "Arial", sans-serif;
+  font-weight: bold;
+  text-decoration: underline;
+  text-underline-offset: 5px;
+  font-size: x-large;
+}
+
+p {
+  font-family: "Arial", sans-serif;
+  text-align: left;
+}
+
+.bold-italic {
+  font-weight: bold;
+  font-style: italic;
+}
+a {
+  font-family: "Arial", sans-serif;
+}
+li {
+  font-family: "Arial", sans-serif;
+  margin-bottom: 5px;
+}
